@@ -1,0 +1,14 @@
+{
+  "resourceName": "imagestutgraphql",
+  "policyUUID": "7f072013",
+  "bucketName": "amplifyreactgraphqle78b16e330fd473bbbcaa78cac3a",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
